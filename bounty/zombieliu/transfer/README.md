@@ -1,34 +1,41 @@
-# Dfinity-Start
+Layer2 Planet is a local newsletter about Ethereum layer2 solutions. Our aim is to explain the fundamentals of layer2, inform the latest developments and introduce the second layer2 projects to the Turkish crypto ecosystem. Also, we decided expand the newsletter to English.
 
-主要负责Flow开发者生态的建设、推广以及生态项目技术支持。 他在2017年进入区块链行业，毕业于上海交通大学。是前Jadepool资产托管系统架构师，该产品被应用于Hashkey全系列产品线以及 MathWallet云端钱包。2017年前在游戏行业沉浸10年，2007年以Gameplay工程师角色加入育碧上海，后作为独立游戏开发者创立原木工作室，供职慕和网络担任制作人，2015年创立萌树游戏担任CEO。
 
-## 适合人群
 
-该程序非常适合任何想要学习 Cadence 语言并开始为 Flow 开发的开发人员。它最适合三种类型的开发人员： 了解 JavaScript 并希望将其技能扩展到区块链应用程序的前端开发人员；了解 JavaScript、Python、PHP、C#或Java，想了解更多智能合约和区块链应用的后端开发者；希望将专业知识扩展到另一个区块链的 Solidity 开发人员。
+What do we plan to do with the grants?
 
-## **你将得到**
 
-### 实战项目教学
 
-从 0 到 1 全面了解Flow区块链生态系统及底层代码基础，手把手带你在Flow链上进行 Cadence 智能合约语言的开发，熟练使用Flow生态常用的开发工具链，并掌握使用FCL前端库开发Flow DApp的知识要点。
+- Encouraging authors with a contribution reward model
 
-### Flow官方认证
+- Improving the designs of the newsletter
 
-在这门官方认证的课程中，通过学习互动及代码练习积累经验，你的Flow编程专业水平在4周内得到大幅度提升。
+- Creating a public portal where users can follow the Layer2 ecosystem
 
-### 与全球顶尖 Flow 生态开发者交流
 
-全中文教学，导师、助教团队汇聚了全球最优秀的Flow生态开发者和行业专家，一对一深入沟通。
 
-### 资源&工作推荐
+Help us for layer2 adaption! With each contribution, our voice getting higher.
 
-掌握运用智能合约进行组合的设计理念，理解开发大型应用的基础架构。优秀学员还将有机会获得Flow生态明星项目的更多资源与工作机会。
 
-## **学习模式**
 
-为了提升课程质量和学习效果，我们提供以下教学服务，主要包括——
 
-- 课程 1 位讲师+ 8 个小组学习制模式进行。由教学老师+助教共同为同学们提供服务，定向作业辅导、答疑等，确保更好的学习效果；
-- 我们将会按照每周一个模块的学习，通过每周 1 节线上视频课程 +课后作业练习+班级群答疑依次带领大家完成学习；
-- 每周的直播答疑，讲师会以在线直播的形式对课程内容进行线上面对面答疑，一切关于课程内容的问题你都可以提问；
-- 作业主要为编程题。
+
+
+
+Layer2 Planet, Ethereum ikinci katman gelişmeleri aktaran yerel bir haber bültenidir. Amacımız Türk kripto ekosistemine ikinci katmanı anlatmak, son gelişmelerden haberdar etmek ve ikinci katman projelerini tanıtmaktır. Geçtiğimiz günlerde sayılarımızı İngilizce de yayınlamaya başladık.
+
+
+
+Hibelerle neler yapmayı planlıyoruz?
+
+
+
+- Katkı ödül modeliyle yazarları teşvik etmek
+
+- Bültenin tasarımlarını iyileştirmek
+
+- Kullanıcıların Layer2 ekosistemini takip edebileceği genel bir portal oluşturmak
+
+
+
+Layer2'leri topluluklara duyurmamız için sen de yardım edebilirsin! Yaptığınız her katkı sesimizin daha yüksek çıkmasını sağlayacak.
